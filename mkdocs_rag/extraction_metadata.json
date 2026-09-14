@@ -1,0 +1,100 @@
+{
+  "total_files": 19,
+  "files": [
+    {
+      "file_path": "getting-started.md",
+      "content_length": 6528,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\getting-started.md"
+    },
+    {
+      "file_path": "index.md",
+      "content_length": 3280,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\index.md"
+    },
+    {
+      "file_path": "about\\contributing.md",
+      "content_length": 24,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\about\\contributing.md"
+    },
+    {
+      "file_path": "about\\license.md",
+      "content_length": 1597,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\about\\license.md"
+    },
+    {
+      "file_path": "about\\release-notes.md",
+      "content_length": 110698,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\about\\release-notes.md"
+    },
+    {
+      "file_path": "dev-guide\\api.md",
+      "content_length": 604,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\dev-guide\\api.md"
+    },
+    {
+      "file_path": "dev-guide\\plugins.md",
+      "content_length": 18151,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\dev-guide\\plugins.md"
+    },
+    {
+      "file_path": "dev-guide\\README.md",
+      "content_length": 558,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\dev-guide\\README.md"
+    },
+    {
+      "file_path": "dev-guide\\themes.md",
+      "content_length": 37744,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\dev-guide\\themes.md"
+    },
+    {
+      "file_path": "dev-guide\\translations.md",
+      "content_length": 9587,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\dev-guide\\translations.md"
+    },
+    {
+      "file_path": "user-guide\\choosing-your-theme.md",
+      "content_length": 8671,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\choosing-your-theme.md"
+    },
+    {
+      "file_path": "user-guide\\cli.md",
+      "content_length": 158,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\cli.md"
+    },
+    {
+      "file_path": "user-guide\\configuration.md",
+      "content_length": 43532,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\configuration.md"
+    },
+    {
+      "file_path": "user-guide\\customizing-your-theme.md",
+      "content_length": 8307,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\customizing-your-theme.md"
+    },
+    {
+      "file_path": "user-guide\\deploying-your-docs.md",
+      "content_length": 9433,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\deploying-your-docs.md"
+    },
+    {
+      "file_path": "user-guide\\installation.md",
+      "content_length": 3220,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\installation.md"
+    },
+    {
+      "file_path": "user-guide\\localizing-your-theme.md",
+      "content_length": 1992,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\localizing-your-theme.md"
+    },
+    {
+      "file_path": "user-guide\\README.md",
+      "content_length": 742,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\README.md"
+    },
+    {
+      "file_path": "user-guide\\writing-your-docs.md",
+      "content_length": 19335,
+      "source": "M:\\Term 9\\Image Processing and Pattern Recognition\\RAG Assignment\\MkDocs RAG Assignment\\mkdocs_rag\\docs\\user-guide\\writing-your-docs.md"
+    }
+  ]
+}

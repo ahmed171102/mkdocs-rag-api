@@ -1,0 +1,10 @@
+.env
+Books
+db
+split_data.pkl
+__pycache__
+.venv
+mkdocs_rag/.env
+mkdocs_rag/db/
+*.pkl
+__pycache__/
